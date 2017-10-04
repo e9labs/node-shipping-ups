@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "node.extend": "^1.1.5",
-    "soap": "^0.9.1",
+    "soap": "e9labs/node-soap",
     "xml2js": "^0.4.15",
     "xmlbuilder": "^2.6.4"
   }
